@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppOverLockScreenTest</string>
+    <string name="accessibility_service_description">Listens for hardware key presses to open the app from the lock screen</string>
+</resources>
